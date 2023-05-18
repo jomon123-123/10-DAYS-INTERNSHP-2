@@ -72,7 +72,7 @@ void loop()
   delay(800); // Wait for 800 millisecond(s)
 }
 ```
-**To select the code from the tinkercad simulator**![image]()
+**To select the code from the tinkercad simulator**![image](https://github.com/jomon123-123/10-DAYS-INTERNSHP-2/blob/main/Screenshot%20from%202023-05-18%2010-23-55.png)
 [tinker the circuit](https://www.tinkercad.com/things/01X11hP2g8n-grand-hillar)
 # DAY 5
 **program code of potentiometer arduino circuit**
