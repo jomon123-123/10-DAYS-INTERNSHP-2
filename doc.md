@@ -283,3 +283,4 @@ void loop(void)
 > Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
 ![image](https://github.com/jomon123-123/10-days-internship/blob/main/images.jpeg)
+# DAY 8
