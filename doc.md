@@ -316,5 +316,6 @@ void loop()
   delay(100); // Wait for 100 millisecond(s)
 }
 ```
+![image](https://github.com/jomon123-123/10-DAYS-INTERNSHP-2/blob/main/Screenshot%20from%202023-05-20%2013-12-43.png)
 ![image]()
 [tinker the circuit](https://www.tinkercad.com/things/2ufuJyEsf4Y-fantabulous-amur-allis/editel)
